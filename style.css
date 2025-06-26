@@ -2,15 +2,16 @@
 
 body {
   font-family: "Times New Roman", Times, serif;
-  letter-spacing: 0.02em;        /* very slight breathing room between letters */
-  word-spacing: 0.05em;          /* gives slightly more gravitas to the line */
-  line-height: 1.6;              /* more vertical space = more 'encyclopedic' */
-  max-width: 800px;              /* gives the page readable line lengths */
-  margin: 40px auto;             /* centres the content with generous white space */
-  padding: 0 20px;
-  background-color: #ffffff;     /* clean white */
-  color: #111111;                /* not pitch black – easier on the eyes */
+  letter-spacing: 0.02em;
+  word-spacing: 0.05em;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  background-color: #ffffff;
+  color: #111111;
   text-align: left;
+}
+
 
 }
 h1 {
