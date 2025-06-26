@@ -15,9 +15,9 @@ body {
 
 }
 h1 {
-  letter-spacing: 0.05em;
-  font-size: 2em;
+  font-size: 1.6em;   /* default is around 2em */
   margin-bottom: 1em;
+  letter-spacing: 0.05em;
 }
 a {
   text-decoration: none;
