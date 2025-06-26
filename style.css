@@ -10,6 +10,8 @@ body {
   padding: 0 20px;
   background-color: #ffffff;     /* clean white */
   color: #111111;                /* not pitch black – easier on the eyes */
+  text-align: left;
+
 }
 h1 {
   letter-spacing: 0.05em;
