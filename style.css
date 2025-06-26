@@ -1,5 +1,26 @@
 /* style.css */
 
 body {
-    font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 0.02em;        /* very slight breathing room between letters */
+  word-spacing: 0.05em;          /* gives slightly more gravitas to the line */
+  line-height: 1.6;              /* more vertical space = more 'encyclopedic' */
+  max-width: 800px;              /* gives the page readable line lengths */
+  margin: 40px auto;             /* centres the content with generous white space */
+  padding: 0 20px;
+  background-color: #ffffff;     /* clean white */
+  color: #111111;                /* not pitch black – easier on the eyes */
 }
+h1 {
+  letter-spacing: 0.05em;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+a {
+  text-decoration: none;
+  color: #004488;
+}
+a:hover {
+  text-decoration: underline;
+}
+
