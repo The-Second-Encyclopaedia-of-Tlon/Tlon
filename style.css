@@ -12,18 +12,19 @@ body {
   text-align: left;
 }
 
-
-}
 h1 {
-  font-size: 1.4em;   /* default is around 2em */
+  font-size: 1.4em;
   margin-bottom: 1em;
   letter-spacing: 0.05em;
 }
+
 a {
   text-decoration: none;
   color: #004488;
 }
+
 a:hover {
   text-decoration: underline;
 }
+
 
